@@ -5,8 +5,11 @@
 
 int calibration(){
     std::cout<<"Entering calibration mode"<<std::endl;
-    scenario();
-    return 0;
+    single_target();
+    //multiple_target();
+    
 
+
+    return 0;
 
 }

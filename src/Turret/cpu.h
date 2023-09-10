@@ -16,13 +16,10 @@ class CPUCommands{
 
 
         void lock_on();
-
         void target(int targetID, int targetDistance);
-
-
         void laser_on();
-
         void laser_off();
+        void shortest_distance_algorithm();
 
        
 

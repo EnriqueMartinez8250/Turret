@@ -6,4 +6,5 @@ const std::string Directions[2] = {"Left bounds", "Right bounds"};
 const std::string Targets[3] = {"Infantry","Truck","Tank"};
 
 
-void scenario();
+void single_target();
+void multiple_target();
